@@ -1,0 +1,36 @@
+.banner {
+    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(../../images/41459308_1925826280809668_8827575441725325312_o.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 200px 0;
+    height: 75%;
+
+}
+.container {
+    width: 900px;
+    margin: auto;
+}
+.banner h1 {
+    color: white;
+}
+.banner p {
+    color: white;
+    opacity: .7;
+    font-size: 20px;
+}
+/*.btn-primary {
+    display: inline-block;
+    background-color: #1EDD88;
+    padding: 16px 36px;
+    border-radius: 50px;
+    color: white;
+}*/
+.btn-primary {
+  color: white;
+  border: 3px solid white;
+  padding: 10px 20px;
+  border-radius: 4px;
+  font-weight: lighter;
+  /*box-shadow: 3px 3px 5px;*/
+  opacity: 0,8;
+}
